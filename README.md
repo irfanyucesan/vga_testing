@@ -1,5 +1,5 @@
 # vga_testing
-640x840 60Hz VGA testing project in verilog HDL.
+640x480 res @ 60Hz VGA testing project in verilog HDL.
 
 Since the FPGA board I used only had 12MHz of internal clock, I used Vivado's Clocking Wizard IP. 
 
